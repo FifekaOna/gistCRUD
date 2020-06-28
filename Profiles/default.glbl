@@ -5,13 +5,13 @@
    <tag></tag>
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
-      <description></description>
-      <initValue>'fifekawahid@gmail.com'</initValue>
+      <description>Your git email</description>
+      <initValue>''</initValue>
       <name>email</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
-      <initValue>'Andalas2020!'</initValue>
+      <description> Your git password</description>
+      <initValue>''</initValue>
       <name>password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
